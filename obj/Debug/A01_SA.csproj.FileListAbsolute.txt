@@ -1,0 +1,7 @@
+C:\S_A1_PROG2070\A01_SA\bin\Debug\A01_SA.exe.config
+C:\S_A1_PROG2070\A01_SA\bin\Debug\A01_SA.exe
+C:\S_A1_PROG2070\A01_SA\bin\Debug\A01_SA.pdb
+C:\S_A1_PROG2070\A01_SA\obj\Debug\A01_SA.csprojAssemblyReference.cache
+C:\S_A1_PROG2070\A01_SA\obj\Debug\A01_SA.csproj.CoreCompileInputs.cache
+C:\S_A1_PROG2070\A01_SA\obj\Debug\A01_SA.exe
+C:\S_A1_PROG2070\A01_SA\obj\Debug\A01_SA.pdb
